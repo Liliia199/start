@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(233,148,219,1) 100%);
+}
+div{
+    display: inline-block;
+    font-size: 60px;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+   
+}
